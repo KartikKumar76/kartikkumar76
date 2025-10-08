@@ -1,5 +1,10 @@
+Hi, I'm Kartik! 👋
+I'm an aspiring web developer passionate about building cool websites and learning new technologies. I love turning ideas into reality through code and constantly improving my skills.
 # 💫 About Me:
-💻 Passionate Web Developer with expertise in front-end and back-end development  <br>- 🌐 Skilled in HTML, CSS, JavaScript, and modern frameworks like React and Angular  <br>- ⚙️ Experienced with server-side technologies such as Node.js, PHP, and Python  <br>- 🎨 Strong eye for UI/UX design to create user-friendly and visually appealing websites  <br>- 🚀 Focused on performance optimization and responsive design for all devices  <br>- 🔧 Proficient with version control tools like Git and collaboration platforms such as GitHub  <br>- 📈 Committed to continuous learning to stay updated with the latest tech trends  <br>- 🤝 Dedicated to understanding client needs and delivering tailored solutions  <br>- 🌟 Passionate about creating seamless digital experiences that drive results  <br>- 📞 Open to collaborations and new opportunities!
+🎓 Aspiring Web Developer
+💻 Learning HTML, CSS, JavaScript, and beyond
+🚀 Excited to create innovative and responsive websites
+🌱 Always eager to learn and grow
 
 
 ## 🌐 Socials:
